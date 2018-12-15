@@ -1,6 +1,8 @@
 .about-us {
   padding: 8vh 0;
-  width: 80%; }
+  width: 80%;
+
+ }
   @media (min-width: 1024px) {
     .about-us {
       width: 800px;
@@ -77,3 +79,8 @@
   @media (min-width: 1024px) {
     .img-right {
       justify-content: flex-end; } }
+
+#about-us .article-2 {
+  margin-top:50px;
+  margin-bottom:30px;
+}

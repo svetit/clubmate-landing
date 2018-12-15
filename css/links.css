@@ -13,12 +13,14 @@
         width: 800px; } }
 
 .links__title {
-  font-size: 1.58rem;
-  color: #333333;
+  font-size: 1.2rem;
+  color: #fff;
+  line-height: 1.4rem;
   text-shadow: none; }
   @media (min-width: 1024px) {
     .links__title {
-      font-size: 1.9rem; } }
+      font-size: 1.5rem;
+      line-height: 1.9rem; } }
 
 @media (min-width: 1024px) {
   .links__left-block {
@@ -66,7 +68,7 @@
 .links__text {
   margin-top: 20px;
   text-align: left;
-  color: #333333; }
+  color: #fff; }
 
 .links__dropdown {
   margin-top: 18px;
@@ -176,4 +178,36 @@ a.links__show {
 #links .work-description__title {
   font-size: 1.3rem;
 }
+
+.links p{
+  line-height:1.45rem;
+}   @media (min-width: 1024px) {
+.links p{
+  line-height:1.7rem;
+}
+}
+
+.links a {
+  font-style:underline;
+    color: #fff;
+}
+
+.links__text .blue {
+    color: #80b3ff;
+  font-size: 1.2rem;
+}
+.links__text .blue a {
+  font-style:underline;
+    color: #5599ff;
+}
+
+#links .crowdfunding {
+  margin-top: 40px;
+  margin-bottom:40px;
+}
+
+@media (min-width: 1024px) {
+.links__text .vars {
+  font-size: 1.1rem;
+}}
 

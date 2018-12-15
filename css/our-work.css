@@ -82,7 +82,7 @@
 .our-work__title-image img {
   width: auto;
   height: 20vw;
-  max-height: 115px;
+  max-height: 150px;
   margin-bottom: 10px;
   display: flex; }
   @media (min-width: 1024px) {
@@ -96,6 +96,7 @@
 
 .our-work p {
   color: #ffffff;
+  text-align: left;
 }
 
 .our-work__title-image {

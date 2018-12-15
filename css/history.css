@@ -217,4 +217,13 @@
  text-align: left;
 }
 
+#history p{
+  text-align:left;
+}
+
+#history .container{
+  padding-left:0px;
+  padding-right:0px;
+}
+
 

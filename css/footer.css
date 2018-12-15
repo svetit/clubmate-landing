@@ -34,7 +34,7 @@
     font-size: 1.5rem; }
 
 .copyright {
-  min-height: 25px; }
+  min-height: 100px; }
   @media (min-width: 1024px) {
     .copyright {
       min-height: 135px; } }
